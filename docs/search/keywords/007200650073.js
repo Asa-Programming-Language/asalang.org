@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("res",["Constant"],[["resetColor",,[["ColorPrint",,,,0,"File:Builtin/colorprint.asa:ColorPrint.resetColor","AsaModule:ColorPrint:resetColor"]]]]);

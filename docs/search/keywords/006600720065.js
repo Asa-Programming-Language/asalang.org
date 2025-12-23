@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("fre",["Function"],[["free",,[["Memory",,,,0,"File:Builtin/asa.asa:Memory.free","AsaModule:Memory:free"]]]]);

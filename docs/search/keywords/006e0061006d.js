@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("nam",["Constant"],[["names",,[["ColorPrint.Back","Color names",,,0,"File:Builtin/colorprint.asa:ColorPrint.Back.Color_names","AsaModule:ColorPrint.Back:Color_names"],["ColorPrint.Fore","Color names",,,0,"File:Builtin/colorprint.asa:ColorPrint.Fore.Color_names","AsaModule:ColorPrint.Fore:Color_names"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("dou",["Function"],[["double",,[["Casts",,,,0,"File:Builtin/asa.asa:Casts.double","AsaModule:Casts:double"]]]]);

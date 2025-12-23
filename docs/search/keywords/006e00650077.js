@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("new",["Function"],[["newline",,[["Print",,,,0,"File:Builtin/print.asa:Print.newline","AsaModule:Print:newline"]]]]);

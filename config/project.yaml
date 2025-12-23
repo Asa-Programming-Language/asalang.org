@@ -1,0 +1,21 @@
+# BetterAutoDocs Project Configuration for the ASA Programming Language
+
+project_name: "Asa"
+project_subtitle: "Standard Library Documentation"
+
+source_dirs:
+  - ../ASA/modules
+
+output_dir: ./output
+
+logo: "https://github.com/Asa-Programming-Language/Asa/blob/main/media/ASA-medium.png?raw=true"
+
+#template_dir: ~/Code/betterdocs/templates
+
+exclude_patterns:
+  - "test"
+  - "Test"
+  - "__pycache__"
+  - ".git"
+
+theme: "default"

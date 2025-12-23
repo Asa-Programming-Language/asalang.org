@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("bac",["Module"],[["Back",,[["ColorPrint",,,,0,"File:Builtin/colorprint.asa:ColorPrint.Back","AsaModule:ColorPrint.Back"]]]]);

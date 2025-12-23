@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("for",["Module"],[["Fore",,[["ColorPrint",,,,0,"File:Builtin/colorprint.asa:ColorPrint.Fore","AsaModule:ColorPrint.Fore"]]]]);

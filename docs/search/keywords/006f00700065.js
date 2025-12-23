@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ope",["Module"],[["Operators",,[[,,,,0,"File:Builtin/asa.asa:Operators","AsaModule:Operators"]]]]);

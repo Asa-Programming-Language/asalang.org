@@ -1,0 +1,29 @@
+# Custom language configurations
+
+languages:
+  asa:
+    name: "Asa"
+    extensions:
+      - ".asa"
+    line_comment: "//"
+    block_comment_start: "/*"
+    block_comment_end: "*/"
+    member_operator: "."
+    case_sensitive: true
+    function_prototype_enders:
+      - ";"
+      - "{"
+      - "#"
+    module_prototype_enders:
+      - "{"
+      - "#"
+    class_prototype_enders:
+      - "{"
+      - "}"
+      - "#"
+    variable_prototype_enders:
+      - ";"
+      - "="
+    constant_prototype_enders:
+      - ";"
+      - "="

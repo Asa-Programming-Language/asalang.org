@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("AsaModule:Operators","Operators");NDSummary.OnSummaryLoaded("AsaModule:Operators",[["Asa","Asa"]],[["Modules","Module"]],[[91,0,0,"Operators"]]);
